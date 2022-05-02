@@ -1,7 +1,8 @@
 {
   "packs": [
     "DonutAndCoffee.json",
-    "Meme_stickers.json"
+    "Meme_stickers.json",
+    "CactusAndBalloon.json"
   ],
   "homeserver_url": "https://matrix.svhs.cc"
 }
